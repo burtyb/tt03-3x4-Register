@@ -50,7 +50,7 @@ documentation:
     - Data2Address2
     - Data2Address3
     - OutData1
-    - !WriteEnable
+    - NotWriteEnable
 
 # The following fields are optional
   tag:          "utility"      # comma separated list of tags: test encryption, experiment, clock, animation, utility, industrial, pwm, fpga, alu, microprocessor, risc, riscv, sensor, signal generator, fft, filter, music, bcd, sound, serial, timer, random number generator, calculator, decoder, counter, puzzle, multiplier, game, oscillator,
