@@ -21,7 +21,7 @@ documentation:
   author:       "Chris Burton"      # Your name
   title:        "3-bit 4-position register"      # Project title
   language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
-  description:  "3-bit 4-position register using Multiplexers"      # Short description of what your project does
+  description:  "3-bit 4-position register using Multiplexers."      # Short description of what your project does
 
 # Longer description of how the project works. You can use standard markdown format.
   how_it_works: |
