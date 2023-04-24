@@ -19,9 +19,9 @@ yaml_version: 3.0
 # Here is a great example: https://github.com/davidsiaw/tt02-davidsiaw-stackcalc/blob/38c5647f83aad2aec675d566aa3d67b98f0aac81/info.yaml
 documentation: 
   author:       "Chris Burton"      # Your name
-  title:        "3-bit 4 position register"      # Project title
+  title:        "3-bit 4-position register"      # Project title
   language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
-  description:  "3-bit 4 position register using Multiplexers"      # Short description of what your project does
+  description:  "3-bit 4-position register using Multiplexers"      # Short description of what your project does
 
 # Longer description of how the project works. You can use standard markdown format.
   how_it_works: |
